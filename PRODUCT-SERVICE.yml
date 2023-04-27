@@ -14,4 +14,4 @@ spring:
   application:
     name: PRODUCT-SERVICE
     
-  app-details: my product service
+  app-details: abcd product
