@@ -13,3 +13,5 @@ spring:
       ddl-auto: update
   application:
     name: PRODUCT-SERVICE
+    
+  app-details: my product service
