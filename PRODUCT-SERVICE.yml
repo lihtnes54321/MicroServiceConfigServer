@@ -15,3 +15,9 @@ spring:
     name: PRODUCT-SERVICE
     
   app-details: abcd product
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
