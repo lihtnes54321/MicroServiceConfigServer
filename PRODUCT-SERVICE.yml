@@ -16,8 +16,4 @@ spring:
     
   app-details: abcd product
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
+
